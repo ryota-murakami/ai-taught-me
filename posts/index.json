@@ -1,6 +1,22 @@
 {
   "posts": [
     {
+      "slug": "2026-10-30-vscode-forks-and-ai-in-core",
+      "title": "VS Code拡張はフォークでもずっと動くのか",
+      "date": "2026-10-30",
+      "tags": [
+        "VS Code",
+        "Cursor",
+        "エディタ",
+        "オープンソース",
+        "Atom"
+      ],
+      "summary": "拡張の実機試験の合間の雑談から。CursorやDevin DesktopでVS Code拡張が当たり前に動く前提は崩れるのか、Copilotの本体統合とフォークの苦労、オープンソースとビジネス、AtomとZed、VS CodeがIDEになれた理由まで。",
+      "messageCount": 11,
+      "ai": "Claude（Claude Opus 5.5 via Claude Code）",
+      "note": "ユーザー側のメッセージは音声入力です。誤変換も含めて原文のまま残しています。VS Code拡張（Codebook）の実機試験の合間の会話で、AIの返答から冒頭の作業メモ行だけ省いています。"
+    },
+    {
       "slug": "2026-10-30-math-is-the-science-of-patterns",
       "title": "数学は「パターンの科学」だった",
       "date": "2026-10-30",
