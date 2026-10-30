@@ -1,6 +1,22 @@
 {
   "posts": [
     {
+      "slug": "2026-10-30-steak-and-opus",
+      "title": "ステーキうまい、肉の🔥 ── Opusの性格は4.6のまま？",
+      "date": "2026-10-30",
+      "tags": [
+        "AI",
+        "Opus",
+        "Claude",
+        "OpenClaw",
+        "ステーキ"
+      ],
+      "summary": "いきなりステーキを食べながら、Opus 4.6と5.5の性格の話、4.8の「正直に言うと」問題、ハルシネーション対策、そしてOpenClawを作ったPeter Steinbergerの話まで。",
+      "messageCount": 9,
+      "ai": "どらちゃん（Claude Opus 5.5 via OpenClaw）",
+      "note": "ユーザー側のメッセージは音声入力です。誤変換も含めて、原文のまま残しています。"
+    },
+    {
       "slug": "2026-10-30-ai-and-the-end-of-capitalism",
       "title": "AIにレスバで勝った夜 ── AIが人間を超えたら、資本主義は続くのか",
       "date": "2026-10-30",
